@@ -28,11 +28,7 @@ Watch the full demonstration video on YouTube showcasing both the app screen and
 
 ## 🖼️ Screenshots
 
-| Scene 1 | Scene 2 |
-|---------|---------|
 | ![Scene 1 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene1.png) | ![Scene 2 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene2.png) |
-
-| Scene 3 | Scene 4 |
 |---------|---------|
 | ![Scene 3 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene3.png) | ![Scene 4 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene4.png) |
 
