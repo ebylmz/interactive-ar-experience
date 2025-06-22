@@ -1,6 +1,6 @@
 # 🕶️ Interactive Augmented Reality (AR) Experience – Unity + Vuforia
 
-This repository contains the source code and assets for a complete Augmented Reality (AR) application developed using **Unity** and **Vuforia** as part of an academic assignment.
+This repository contains the source code and assets for a complete Augmented Reality (AR) application developed using **Unity** and **Vuforia**.
 
 ## 🎯 Project Overview
 
@@ -18,25 +18,23 @@ The application demonstrates the following core features:
 - 📹 **Video Mapping**: A video file is rendered as a virtual object and plays on detection.
 - 🧩 **Three-Step Interactive Scenario**: A mini-scenario where users interact sequentially with virtual elements.
 - 🖱️ **Virtual Object Selection**: At least two distinct interactions where users select virtual objects.
-- 📲 **Scenario Switch via Buttons**: Two UI buttons are included for toggling between AR scenarios.
+- 📲 **Scenario Switch via Buttons**: UI buttons are included for toggling between AR scenarios.
 
 ## 📹 Demo Video
 
-Watch the full demonstration on YouTube:
+Watch the full demonstration video on YouTube showcasing both the app screen and user interaction:
 
 👉 [Click here to watch the demo video](https://www.youtube.com/watch?v=pU4QrcUt0yE)
-
-> The video shows both the AR application screen and the user/environment interactions.
 
 ## 🖼️ Screenshots
 
 | Scene 1 | Scene 2 |
-|--------|--------|
-| ![Scene 1](https://github.com/ebylmz/interactive-ar-reality/blob/main/hw01/images/scene1.png) | ![Scene 2](https://github.com/ebylmz/cse462-augmented-reality/blob/main/hw01/images/scene2.png) |
+|---------|---------|
+| ![Scene 1 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene1.png) | ![Scene 2 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene2.png) |
 
 | Scene 3 | Scene 4 |
-|--------|--------|
-| ![Scene 3](https://github.com/ebylmz/cse462-augmented-reality/blob/main/hw01/images/scene3.png) | ![Scene 4](https://github.com/ebylmz/cse462-augmented-reality/blob/main/hw01/images/scene4.png) |
+|---------|---------|
+| ![Scene 3 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene3.png) | ![Scene 4 Screenshot](https://github.com/ebylmz/interactive-ar-experience/blob/main/images/scene4.png) |
 
 ## 🧑‍💻 Technologies Used
 
