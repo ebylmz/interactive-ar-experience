@@ -1,10 +1,10 @@
-# 🕶️ Interactive Augmented Reality (AR) Experience – Unity + Vuforia
+# 🕶️ Interactive Augmented Reality Experience
 
-This repository contains the source code and assets for a complete Augmented Reality (AR) application developed using **Unity** and **Vuforia**.
+This repository contains a complete Augmented Reality application developed with **Unity** and **Vuforia**. The project integrates virtual 3D and 2D content with real-world image targets, enabling interactive user experiences within a structured scenario.
 
 ## 🎯 Project Overview
 
-The goal of this project was to build a functional and interactive AR application that showcases a variety of features and user interactions. The application integrates virtual 3D/2D content with real-world markers and enables users to interact with the augmented elements through a structured scenario.
+Designed to showcase core AR capabilities, the application features a blend of stationary, animated, and moving virtual objects, alongside media mapping and dynamic user interaction. It demonstrates effective use of AR markers to trigger diverse virtual elements and facilitates multi-step user engagement.
 
 ## ✅ Features
 
@@ -20,7 +20,7 @@ The application demonstrates the following core features:
 - 🖱️ **Virtual Object Selection**: At least two distinct interactions where users select virtual objects.
 - 📲 **Scenario Switch via Buttons**: UI buttons are included for toggling between AR scenarios.
 
-## 📹 Demo Video
+## 📹 Demonstration
 
 Watch the full demonstration video on YouTube showcasing both the app screen and user interaction:
 
